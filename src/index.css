@@ -16,7 +16,7 @@ p {font-size: 16px;}
 }
 
 .bg-3 {
-    background-color: #EEEEEE; /* White */
+    background-color: #fdfff2; /* White */
     color: #555555;
 }
 .bg-4 {
@@ -43,4 +43,15 @@ p {font-size: 16px;}
 img {
     max-width: 100%;
     max-heigth: 100%;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+@media only screen and (max-width: 600px) {
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: auto auto;
+  }
 }
