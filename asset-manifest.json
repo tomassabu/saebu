@@ -1,7 +1,7 @@
 {
-  "main.css": "/saebu/static/css/main.d73ab120.chunk.css",
-  "main.js": "/saebu/static/js/main.2cac891d.chunk.js",
-  "main.js.map": "/saebu/static/js/main.2cac891d.chunk.js.map",
+  "main.css": "/saebu/static/css/main.3a019d92.chunk.css",
+  "main.js": "/saebu/static/js/main.46a3a8ab.chunk.js",
+  "main.js.map": "/saebu/static/js/main.46a3a8ab.chunk.js.map",
   "static/js/1.6105a37c.chunk.js": "/saebu/static/js/1.6105a37c.chunk.js",
   "static/js/1.6105a37c.chunk.js.map": "/saebu/static/js/1.6105a37c.chunk.js.map",
   "runtime~main.js": "/saebu/static/js/runtime~main.01d2d2fd.js",
@@ -10,8 +10,8 @@
   "static/media/krokodille.png": "/saebu/static/media/krokodille.c067511d.png",
   "static/media/and.png": "/saebu/static/media/and.d7eac405.png",
   "static/media/flodhest.png": "/saebu/static/media/flodhest.70bcda26.png",
-  "static/css/main.d73ab120.chunk.css.map": "/saebu/static/css/main.d73ab120.chunk.css.map",
+  "static/css/main.3a019d92.chunk.css.map": "/saebu/static/css/main.3a019d92.chunk.css.map",
   "index.html": "/saebu/index.html",
-  "precache-manifest.a4fda70cd7172eed3d7b6c84e39d7eff.js": "/saebu/precache-manifest.a4fda70cd7172eed3d7b6c84e39d7eff.js",
+  "precache-manifest.43456ffd7ee687a8a3b1de3965bcad9f.js": "/saebu/precache-manifest.43456ffd7ee687a8a3b1de3965bcad9f.js",
   "service-worker.js": "/saebu/service-worker.js"
 }
