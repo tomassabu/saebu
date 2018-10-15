@@ -35,7 +35,7 @@ class App extends Component {
 </div>
 
         <footer className="container-fluid bg-4 text-center">
-          <p>Dette er en test-side</p>
+          <p> Mer kommer </p>
         </footer>
       </div>
     );
