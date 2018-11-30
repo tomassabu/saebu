@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/saebu/static/media/sjakktrekk.fd67ab23.png"
   },
   {
-    "revision": "75d8660021bf0a2b2bed",
-    "url": "/saebu/static/css/main.c201be90.chunk.css"
+    "revision": "d2d2574c7c3b61685ca5",
+    "url": "/saebu/static/css/main.c02fef91.chunk.css"
   },
   {
     "revision": "e8026d8c47dae844ae35",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/saebu/static/media/romvesine.9241dd38.png"
   },
   {
-    "revision": "75d8660021bf0a2b2bed",
-    "url": "/saebu/static/js/main.75d86600.chunk.js"
+    "revision": "d2d2574c7c3b61685ca5",
+    "url": "/saebu/static/js/main.d2d2574c.chunk.js"
   },
   {
     "revision": "5ca899e8882ab9f6a0f1c2f11255a3f0",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/saebu/static/media/tomas1.ff12420c.png"
   },
   {
-    "revision": "8a8fd04ef3f4ab064ad92247c64add63",
+    "revision": "a8b731f15757fad4d6d4dff2f0b5faab",
     "url": "/saebu/index.html"
   }
 ];
